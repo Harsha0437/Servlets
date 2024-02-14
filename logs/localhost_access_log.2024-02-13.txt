@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:21:54 -0600] "GET /javax-servlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:21:54 -0600] "GET /javax-servlets/ HTTP/1.1" 404 770
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:23:26 -0600] "GET /javax-servlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:23:26 -0600] "GET /javax-servlets/ HTTP/1.1" 404 770
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:27:48 -0600] "GET /javax-servlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:27:48 -0600] "GET /javax-servlets/ HTTP/1.1" 200 384
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:28:00 -0600] "POST /javax-servlets/ HTTP/1.1" 200 384
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:28:27 -0600] "POST /javax-servlets/ HTTP/1.1" 200 384
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:30:10 -0600] "GET /javax-servlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:30:10 -0600] "GET /javax-servlets/ HTTP/1.1" 200 384
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:30:28 -0600] "POST /javax-servlets/ HTTP/1.1" 200 384
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:33:02 -0600] "GET /javax-servlets HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:33:02 -0600] "GET /javax-servlets/ HTTP/1.1" 200 398
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:33:17 -0600] "POST /javax-servlets/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:33:17 -0600] "GET /javax-servlets/home.html HTTP/1.1" 200 225
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:33:24 -0600] "POST /javax-servlets/LogoutServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:23:33:24 -0600] "GET /javax-servlets/Login.html HTTP/1.1" 200 398
